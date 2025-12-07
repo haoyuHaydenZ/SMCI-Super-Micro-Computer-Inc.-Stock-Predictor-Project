@@ -1,0 +1,2 @@
+# SMCI-Super-Micro-Computer-Inc.-Stock-Predictor-Project
+Sorted and cleaned stock data from 2015 to 2025 Carried out exploratory data analysis (EDA), histogram analysis and heatmap analysis, Constructed linear regression and random forest models to predict the next-day closing price and demonstrated the predictive advantage of random forest in handling nonlinear patterns and interactions between features
